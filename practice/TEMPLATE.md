@@ -8,7 +8,7 @@ provides name for set of charges
 
 ## What does push do?
 
-publisn commit
+publish commit
 
 ## How is a pull request different from pull?
 
