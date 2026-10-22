@@ -1,15 +1,15 @@
-# Pair [number]
+# Pair [02]
 
-Names: [name], [name]
+Names: [Bastian], [Mila]
 
 ## What does a commit do?
 
-[Your answer]
+provides name for set of charges
 
 ## What does push do?
 
-[Your answer]
+publisn commit
 
 ## How is a pull request different from pull?
 
-[Your answer]
+downloads code from the remote
